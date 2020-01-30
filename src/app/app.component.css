@@ -1,0 +1,16 @@
+.navbar {
+  background-color: gainsboro;
+}
+
+button {
+  height: 100%;
+  width: 100%;
+  margin-right: 250px;
+  background-color: cornflowerblue;
+  color: white;
+}
+
+button:focus, button:hover {
+  background-color: purple;
+  color: white;
+}
